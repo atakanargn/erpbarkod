@@ -1,5 +1,8 @@
 # erpbarkod
 
+Website üzerinden javascript mesajlarını kontrol edip barkod okuyucu olarak kullanılan flutter app'i,
+sayfa içerisinde gezinmek için standart web browser history butonları da yerleştirilmiştir.
+
 A new Flutter project.
 
 ## Getting Started
